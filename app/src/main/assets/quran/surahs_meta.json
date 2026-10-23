@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "nameArabic": "سُورَةُ ٱلْفَاتِحَةِ",
+    "nameBangla": "আল-ফাতিহা",
+    "nameEnglish": "Al-Faatiha",
+    "meaningBangla": "সূচনা বা ভূমিকা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 7,
+    "bismillahPre": true
+  },
+  {
+    "id": 2,
+    "nameArabic": "سُورَةُ البَقَرَةِ",
+    "nameBangla": "আল-বাকারা",
+    "nameEnglish": "Al-Baqara",
+    "meaningBangla": "গাভী",
+    "revelationType": "মাদানী",
+    "ayahCount": 286,
+    "bismillahPre": true
+  },
+  {
+    "id": 3,
+    "nameArabic": "سُورَةُ آلِ عِمۡرَانَ",
+    "nameBangla": "আলে-ইমরান",
+    "nameEnglish": "Aal-i-Imraan",
+    "meaningBangla": "ইমরানের পরিবার",
+    "revelationType": "মাদানী",
+    "ayahCount": 200,
+    "bismillahPre": true
+  },
+  {
+    "id": 4,
+    "nameArabic": "سُورَةُ النِّسَاءِ",
+    "nameBangla": "আন-নিসা",
+    "nameEnglish": "An-Nisaa",
+    "meaningBangla": "মহিলা",
+    "revelationType": "মাদানী",
+    "ayahCount": 176,
+    "bismillahPre": true
+  },
+  {
+    "id": 5,
+    "nameArabic": "سُورَةُ المَائـِدَةِ",
+    "nameBangla": "আল-মায়িদাহ",
+    "nameEnglish": "Al-Maaida",
+    "meaningBangla": "খাদ্য পরিবেশিত পাত্র",
+    "revelationType": "মাদানী",
+    "ayahCount": 120,
+    "bismillahPre": true
+  },
+  {
+    "id": 6,
+    "nameArabic": "سُورَةُ الأَنۡعَامِ",
+    "nameBangla": "আল-আনআম",
+    "nameEnglish": "Al-An'aam",
+    "meaningBangla": "গৃহপালিত পশু",
+    "revelationType": "মাক্কী",
+    "ayahCount": 165,
+    "bismillahPre": true
+  },
+  {
+    "id": 7,
+    "nameArabic": "سُورَةُ الأَعۡرَافِ",
+    "nameBangla": "আল-আরাফ",
+    "nameEnglish": "Al-A'raaf",
+    "meaningBangla": "উঁচু স্থানসমূহ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 206,
+    "bismillahPre": true
+  },
+  {
+    "id": 8,
+    "nameArabic": "سُورَةُ الأَنفَالِ",
+    "nameBangla": "আল-আনফাল",
+    "nameEnglish": "Al-Anfaal",
+    "meaningBangla": "যুদ্ধলব্ধ সম্পদ",
+    "revelationType": "মাদানী",
+    "ayahCount": 75,
+    "bismillahPre": true
+  },
+  {
+    "id": 9,
+    "nameArabic": "سُورَةُ التَّوۡبَةِ",
+    "nameBangla": "আত-তাওবাহ",
+    "nameEnglish": "At-Tawba",
+    "meaningBangla": "অনুশোচনা / তওবা",
+    "revelationType": "মাদানী",
+    "ayahCount": 129,
+    "bismillahPre": false
+  },
+  {
+    "id": 10,
+    "nameArabic": "سُورَةُ يُونُسَ",
+    "nameBangla": "ইউনুস",
+    "nameEnglish": "Yunus",
+    "meaningBangla": "নবী ইউনুস",
+    "revelationType": "মাক্কী",
+    "ayahCount": 109,
+    "bismillahPre": true
+  },
+  {
+    "id": 11,
+    "nameArabic": "سُورَةُ هُودٍ",
+    "nameBangla": "হুদ",
+    "nameEnglish": "Hud",
+    "meaningBangla": "নবী হুদ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 123,
+    "bismillahPre": true
+  },
+  {
+    "id": 12,
+    "nameArabic": "سُورَةُ يُوسُفَ",
+    "nameBangla": "ইউসুফ",
+    "nameEnglish": "Yusuf",
+    "meaningBangla": "নবী ইউসুফ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 111,
+    "bismillahPre": true
+  },
+  {
+    "id": 13,
+    "nameArabic": "سُورَةُ الرَّعۡدِ",
+    "nameBangla": "আর-রাদ",
+    "nameEnglish": "Ar-Ra'd",
+    "meaningBangla": "বজ্রপাত",
+    "revelationType": "মাদানী",
+    "ayahCount": 43,
+    "bismillahPre": true
+  },
+  {
+    "id": 14,
+    "nameArabic": "سُورَةُ إِبۡرَاهِيمَ",
+    "nameBangla": "ইবরাহিম",
+    "nameEnglish": "Ibrahim",
+    "meaningBangla": "নবী ইবরাহিম",
+    "revelationType": "মাক্কী",
+    "ayahCount": 52,
+    "bismillahPre": true
+  },
+  {
+    "id": 15,
+    "nameArabic": "سُورَةُ الحِجۡرِ",
+    "nameBangla": "আল-হিজর",
+    "nameEnglish": "Al-Hijr",
+    "meaningBangla": "পাথুরে পাহাড়",
+    "revelationType": "মাক্কী",
+    "ayahCount": 99,
+    "bismillahPre": true
+  },
+  {
+    "id": 16,
+    "nameArabic": "سُورَةُ النَّحۡلِ",
+    "nameBangla": "আন-নাহল",
+    "nameEnglish": "An-Nahl",
+    "meaningBangla": "মৌমাছি",
+    "revelationType": "মাক্কী",
+    "ayahCount": 128,
+    "bismillahPre": true
+  },
+  {
+    "id": 17,
+    "nameArabic": "سُورَةُ الإِسۡرَاءِ",
+    "nameBangla": "বনি ইসরাঈল",
+    "nameEnglish": "Al-Israa",
+    "meaningBangla": "ইসরাঈলের বংশধর",
+    "revelationType": "মাক্কী",
+    "ayahCount": 111,
+    "bismillahPre": true
+  },
+  {
+    "id": 18,
+    "nameArabic": "سُورَةُ الكَهۡفِ",
+    "nameBangla": "আল-কাহফ",
+    "nameEnglish": "Al-Kahf",
+    "meaningBangla": "গুহা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 110,
+    "bismillahPre": true
+  },
+  {
+    "id": 19,
+    "nameArabic": "سُورَةُ مَرۡيَمَ",
+    "nameBangla": "মারিয়াম",
+    "nameEnglish": "Maryam",
+    "meaningBangla": "মারিয়াম (আঃ)",
+    "revelationType": "মাক্কী",
+    "ayahCount": 98,
+    "bismillahPre": true
+  },
+  {
+    "id": 20,
+    "nameArabic": "سُورَةُ طه",
+    "nameBangla": "ত্বা-হা",
+    "nameEnglish": "Taa-Haa",
+    "meaningBangla": "ত্বা-হা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 135,
+    "bismillahPre": true
+  },
+  {
+    "id": 21,
+    "nameArabic": "سُورَةُ الأَنبِيَاءِ",
+    "nameBangla": "আল-আম্বিয়া",
+    "nameEnglish": "Al-Anbiyaa",
+    "meaningBangla": "নবীগণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 112,
+    "bismillahPre": true
+  },
+  {
+    "id": 22,
+    "nameArabic": "سُورَةُ الحَجِّ",
+    "nameBangla": "আল-হজ্জ",
+    "nameEnglish": "Al-Hajj",
+    "meaningBangla": "হজ্জ",
+    "revelationType": "মাদানী",
+    "ayahCount": 78,
+    "bismillahPre": true
+  },
+  {
+    "id": 23,
+    "nameArabic": "سُورَةُ المُؤۡمِنُونَ",
+    "nameBangla": "আল-মুমিনুন",
+    "nameEnglish": "Al-Muminoon",
+    "meaningBangla": "বিশ্বাসীগণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 118,
+    "bismillahPre": true
+  },
+  {
+    "id": 24,
+    "nameArabic": "سُورَةُ النُّورِ",
+    "nameBangla": "আন-নূর",
+    "nameEnglish": "An-Noor",
+    "meaningBangla": "জ্যোতি বা আলো",
+    "revelationType": "মাদানী",
+    "ayahCount": 64,
+    "bismillahPre": true
+  },
+  {
+    "id": 25,
+    "nameArabic": "سُورَةُ الفُرۡقَانِ",
+    "nameBangla": "আল-ফুরকান",
+    "nameEnglish": "Al-Furqaan",
+    "meaningBangla": "সত্য-মিথ্যার পার্থক্যকারী",
+    "revelationType": "মাক্কী",
+    "ayahCount": 77,
+    "bismillahPre": true
+  },
+  {
+    "id": 26,
+    "nameArabic": "سُورَةُ الشُّعَرَاءِ",
+    "nameBangla": "আশ-শুআরা",
+    "nameEnglish": "Ash-Shu'araa",
+    "meaningBangla": "কবিগণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 227,
+    "bismillahPre": true
+  },
+  {
+    "id": 27,
+    "nameArabic": "سُورَةُ النَّمۡلِ",
+    "nameBangla": "আন-নামল",
+    "nameEnglish": "An-Naml",
+    "meaningBangla": "পিপীলিকা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 93,
+    "bismillahPre": true
+  },
+  {
+    "id": 28,
+    "nameArabic": "سُورَةُ القَصَصِ",
+    "nameBangla": "আল-কাসাস",
+    "nameEnglish": "Al-Qasas",
+    "meaningBangla": "ঘটনা / ইতিহাস",
+    "revelationType": "মাক্কী",
+    "ayahCount": 88,
+    "bismillahPre": true
+  },
+  {
+    "id": 29,
+    "nameArabic": "سُورَةُ العَنكَبُوتِ",
+    "nameBangla": "আল-আনকাবুত",
+    "nameEnglish": "Al-Ankaboot",
+    "meaningBangla": "মাকড়সা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 69,
+    "bismillahPre": true
+  },
+  {
+    "id": 30,
+    "nameArabic": "سُورَةُ الرُّومِ",
+    "nameBangla": "আর-রূম",
+    "nameEnglish": "Ar-Room",
+    "meaningBangla": "রোমান জাতি",
+    "revelationType": "মাক্কী",
+    "ayahCount": 60,
+    "bismillahPre": true
+  },
+  {
+    "id": 31,
+    "nameArabic": "سُورَةُ لُقۡمَانَ",
+    "nameBangla": "লুকমান",
+    "nameEnglish": "Luqman",
+    "meaningBangla": "জ্ঞানী লুকমান",
+    "revelationType": "মাক্কী",
+    "ayahCount": 34,
+    "bismillahPre": true
+  },
+  {
+    "id": 32,
+    "nameArabic": "سُورَةُ السَّجۡدَةِ",
+    "nameBangla": "আস-সাজদাহ",
+    "nameEnglish": "As-Sajda",
+    "meaningBangla": "সিজদা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 30,
+    "bismillahPre": true
+  },
+  {
+    "id": 33,
+    "nameArabic": "سُورَةُ الأَحۡزَابِ",
+    "nameBangla": "আল-আহযাব",
+    "nameEnglish": "Al-Ahzaab",
+    "meaningBangla": "জোটবদ্ধ বাহিনী",
+    "revelationType": "মাদানী",
+    "ayahCount": 73,
+    "bismillahPre": true
+  },
+  {
+    "id": 34,
+    "nameArabic": "سُورَةُ سَبَإٍ",
+    "nameBangla": "সাবা",
+    "nameEnglish": "Saba",
+    "meaningBangla": "সাবা জাতি",
+    "revelationType": "মাক্কী",
+    "ayahCount": 54,
+    "bismillahPre": true
+  },
+  {
+    "id": 35,
+    "nameArabic": "سُورَةُ فَاطِرٍ",
+    "nameBangla": "ফাতির",
+    "nameEnglish": "Faatir",
+    "meaningBangla": "আদি স্রষ্টা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 45,
+    "bismillahPre": true
+  },
+  {
+    "id": 36,
+    "nameArabic": "سُورَةُ يسٓ",
+    "nameBangla": "ইয়া-সীন",
+    "nameEnglish": "Yaseen",
+    "meaningBangla": "ইয়া-সীন",
+    "revelationType": "মাক্কী",
+    "ayahCount": 83,
+    "bismillahPre": true
+  },
+  {
+    "id": 37,
+    "nameArabic": "سُورَةُ الصَّافَّاتِ",
+    "nameBangla": "আস-সাফফাত",
+    "nameEnglish": "As-Saaffaat",
+    "meaningBangla": "সারিবদ্ধ দল",
+    "revelationType": "মাক্কী",
+    "ayahCount": 182,
+    "bismillahPre": true
+  },
+  {
+    "id": 38,
+    "nameArabic": "سُورَةُ صٓ",
+    "nameBangla": "সোয়াদ",
+    "nameEnglish": "Saad",
+    "meaningBangla": "সোয়াদ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 88,
+    "bismillahPre": true
+  },
+  {
+    "id": 39,
+    "nameArabic": "سُورَةُ الزُّمَرِ",
+    "nameBangla": "আয-যুমার",
+    "nameEnglish": "Az-Zumar",
+    "meaningBangla": "দলসমূহ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 75,
+    "bismillahPre": true
+  },
+  {
+    "id": 40,
+    "nameArabic": "سُورَةُ غَافِرٍ",
+    "nameBangla": "গাফির",
+    "nameEnglish": "Ghafir",
+    "meaningBangla": "ক্ষমাশীল",
+    "revelationType": "মাক্কী",
+    "ayahCount": 85,
+    "bismillahPre": true
+  },
+  {
+    "id": 41,
+    "nameArabic": "سُورَةُ فُصِّلَتۡ",
+    "nameBangla": "ফুসসিলাত",
+    "nameEnglish": "Fussilat",
+    "meaningBangla": "সুস্পষ্ট বিবরণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 54,
+    "bismillahPre": true
+  },
+  {
+    "id": 42,
+    "nameArabic": "سُورَةُ الشُّورَىٰ",
+    "nameBangla": "আশ-শূরা",
+    "nameEnglish": "Ash-Shura",
+    "meaningBangla": "পরামর্শ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 53,
+    "bismillahPre": true
+  },
+  {
+    "id": 43,
+    "nameArabic": "سُورَةُ الزُّخۡرُفِ",
+    "nameBangla": "আয-যুখরুফ",
+    "nameEnglish": "Az-Zukhruf",
+    "meaningBangla": "স্বর্ণালংকার",
+    "revelationType": "মাক্কী",
+    "ayahCount": 89,
+    "bismillahPre": true
+  },
+  {
+    "id": 44,
+    "nameArabic": "سُورَةُ الدُّخَانِ",
+    "nameBangla": "আদ-দুখান",
+    "nameEnglish": "Ad-Dukhaan",
+    "meaningBangla": "ধোঁয়া",
+    "revelationType": "মাক্কী",
+    "ayahCount": 59,
+    "bismillahPre": true
+  },
+  {
+    "id": 45,
+    "nameArabic": "سُورَةُ الجَاثِيَةِ",
+    "nameBangla": "আল-জাসিয়াহ",
+    "nameEnglish": "Al-Jaathiya",
+    "meaningBangla": "নতজানু",
+    "revelationType": "মাক্কী",
+    "ayahCount": 37,
+    "bismillahPre": true
+  },
+  {
+    "id": 46,
+    "nameArabic": "سُورَةُ الأَحۡقَافِ",
+    "nameBangla": "আল-আহকাফ",
+    "nameEnglish": "Al-Ahqaf",
+    "meaningBangla": "বালির পাহাড়",
+    "revelationType": "মাক্কী",
+    "ayahCount": 35,
+    "bismillahPre": true
+  },
+  {
+    "id": 47,
+    "nameArabic": "سُورَةُ مُحَمَّدٍ",
+    "nameBangla": "মুহাম্মদ",
+    "nameEnglish": "Muhammad",
+    "meaningBangla": "নবী মুহাম্মদ (সাঃ)",
+    "revelationType": "মাদানী",
+    "ayahCount": 38,
+    "bismillahPre": true
+  },
+  {
+    "id": 48,
+    "nameArabic": "سُورَةُ الفَتۡحِ",
+    "nameBangla": "আল-ফাতহ",
+    "nameEnglish": "Al-Fath",
+    "meaningBangla": "মহাবিজয়",
+    "revelationType": "মাদানী",
+    "ayahCount": 29,
+    "bismillahPre": true
+  },
+  {
+    "id": 49,
+    "nameArabic": "سُورَةُ الحُجُرَاتِ",
+    "nameBangla": "আল-হুজুরাত",
+    "nameEnglish": "Al-Hujuraat",
+    "meaningBangla": "আবাসগৃহসমূহ",
+    "revelationType": "মাদানী",
+    "ayahCount": 18,
+    "bismillahPre": true
+  },
+  {
+    "id": 50,
+    "nameArabic": "سُورَةُ قٓ",
+    "nameBangla": "কাফ",
+    "nameEnglish": "Qaaf",
+    "meaningBangla": "কাফ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 45,
+    "bismillahPre": true
+  },
+  {
+    "id": 51,
+    "nameArabic": "سُورَةُ الذَّارِيَاتِ",
+    "nameBangla": "আয-যারিয়াত",
+    "nameEnglish": "Adh-Dhaariyat",
+    "meaningBangla": "বিক্ষিপ্তকারী বাতাস",
+    "revelationType": "মাক্কী",
+    "ayahCount": 60,
+    "bismillahPre": true
+  },
+  {
+    "id": 52,
+    "nameArabic": "سُورَةُ الطُّورِ",
+    "nameBangla": "আত-তূর",
+    "nameEnglish": "At-Tur",
+    "meaningBangla": "তূর পর্বত",
+    "revelationType": "মাক্কী",
+    "ayahCount": 49,
+    "bismillahPre": true
+  },
+  {
+    "id": 53,
+    "nameArabic": "سُورَةُ النَّجۡمِ",
+    "nameBangla": "আন-নাজম",
+    "nameEnglish": "An-Najm",
+    "meaningBangla": "তারা বা নক্ষত্র",
+    "revelationType": "মাক্কী",
+    "ayahCount": 62,
+    "bismillahPre": true
+  },
+  {
+    "id": 54,
+    "nameArabic": "سُورَةُ القَمَرِ",
+    "nameBangla": "আল-কামার",
+    "nameEnglish": "Al-Qamar",
+    "meaningBangla": "চাঁদ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 55,
+    "bismillahPre": true
+  },
+  {
+    "id": 55,
+    "nameArabic": "سُورَةُ الرَّحۡمَٰن",
+    "nameBangla": "আর-রহমান",
+    "nameEnglish": "Ar-Rahmaan",
+    "meaningBangla": "পরম করুণাময়",
+    "revelationType": "মাদানী",
+    "ayahCount": 78,
+    "bismillahPre": true
+  },
+  {
+    "id": 56,
+    "nameArabic": "سُورَةُ الوَاقِعَةِ",
+    "nameBangla": "আল-ওয়াকিয়াহ",
+    "nameEnglish": "Al-Waaqia",
+    "meaningBangla": "অনিবার্য ঘটনা / কিয়ামত",
+    "revelationType": "মাক্কী",
+    "ayahCount": 96,
+    "bismillahPre": true
+  },
+  {
+    "id": 57,
+    "nameArabic": "سُورَةُ الحَدِيدِ",
+    "nameBangla": "আল-হাদীদ",
+    "nameEnglish": "Al-Hadid",
+    "meaningBangla": "লোহা",
+    "revelationType": "মাদানী",
+    "ayahCount": 29,
+    "bismillahPre": true
+  },
+  {
+    "id": 58,
+    "nameArabic": "سُورَةُ المُجَادلَةِ",
+    "nameBangla": "আল-মুজাদালাহ",
+    "nameEnglish": "Al-Mujaadila",
+    "meaningBangla": "বিতর্ককারিণী নারী",
+    "revelationType": "মাদানী",
+    "ayahCount": 22,
+    "bismillahPre": true
+  },
+  {
+    "id": 59,
+    "nameArabic": "سُورَةُ الحَشۡرِ",
+    "nameBangla": "আল-হাশর",
+    "nameEnglish": "Al-Hashr",
+    "meaningBangla": "সমাবেশ",
+    "revelationType": "মাদানী",
+    "ayahCount": 24,
+    "bismillahPre": true
+  },
+  {
+    "id": 60,
+    "nameArabic": "سُورَةُ المُمۡتَحنَةِ",
+    "nameBangla": "আল-মুমতাহানাহ",
+    "nameEnglish": "Al-Mumtahana",
+    "meaningBangla": "পরীক্ষিতা নারী",
+    "revelationType": "মাদানী",
+    "ayahCount": 13,
+    "bismillahPre": true
+  },
+  {
+    "id": 61,
+    "nameArabic": "سُورَةُ الصَّفِّ",
+    "nameBangla": "আস-সাফ",
+    "nameEnglish": "As-Saff",
+    "meaningBangla": "সারিবদ্ধ সৈন্যদল",
+    "revelationType": "মাদানী",
+    "ayahCount": 14,
+    "bismillahPre": true
+  },
+  {
+    "id": 62,
+    "nameArabic": "سُورَةُ الجُمُعَةِ",
+    "nameBangla": "আল-জুমুআহ",
+    "nameEnglish": "Al-Jumu'a",
+    "meaningBangla": "শুক্রবার / জুমুআ",
+    "revelationType": "মাদানী",
+    "ayahCount": 11,
+    "bismillahPre": true
+  },
+  {
+    "id": 63,
+    "nameArabic": "سُورَةُ المُنَافِقُونَ",
+    "nameBangla": "আল-মুনাফিকুন",
+    "nameEnglish": "Al-Munaafiqoon",
+    "meaningBangla": "কপট বিশ্বাসীগণ",
+    "revelationType": "মাদানী",
+    "ayahCount": 11,
+    "bismillahPre": true
+  },
+  {
+    "id": 64,
+    "nameArabic": "سُورَةُ التَّغَابُنِ",
+    "nameBangla": "আত-তাগাবুন",
+    "nameEnglish": "At-Taghaabun",
+    "meaningBangla": "লাভ-ক্ষতি",
+    "revelationType": "মাদানী",
+    "ayahCount": 18,
+    "bismillahPre": true
+  },
+  {
+    "id": 65,
+    "nameArabic": "سُورَةُ الطَّلَاقِ",
+    "nameBangla": "আত-ত্বালাক",
+    "nameEnglish": "At-Talaaq",
+    "meaningBangla": "তালাক",
+    "revelationType": "মাদানী",
+    "ayahCount": 12,
+    "bismillahPre": true
+  },
+  {
+    "id": 66,
+    "nameArabic": "سُورَةُ التَّحۡرِيمِ",
+    "nameBangla": "আত-তাহরীম",
+    "nameEnglish": "At-Tahrim",
+    "meaningBangla": "নিষিদ্ধকরণ",
+    "revelationType": "মাদানী",
+    "ayahCount": 12,
+    "bismillahPre": true
+  },
+  {
+    "id": 67,
+    "nameArabic": "سُورَةُ المُلۡكِ",
+    "nameBangla": "আল-মুলক",
+    "nameEnglish": "Al-Mulk",
+    "meaningBangla": "সার্বভৌম কর্তৃত্ব / রাজত্ব",
+    "revelationType": "মাক্কী",
+    "ayahCount": 30,
+    "bismillahPre": true
+  },
+  {
+    "id": 68,
+    "nameArabic": "سُورَةُ القَلَمِ",
+    "nameBangla": "আল-কলম",
+    "nameEnglish": "Al-Qalam",
+    "meaningBangla": "কলম",
+    "revelationType": "মাক্কী",
+    "ayahCount": 52,
+    "bismillahPre": true
+  },
+  {
+    "id": 69,
+    "nameArabic": "سُورَةُ الحَاقَّةِ",
+    "nameBangla": "আল-হাক্কাহ",
+    "nameEnglish": "Al-Haaqqa",
+    "meaningBangla": "নিশ্চিত সত্য",
+    "revelationType": "মাক্কী",
+    "ayahCount": 52,
+    "bismillahPre": true
+  },
+  {
+    "id": 70,
+    "nameArabic": "سُورَةُ المَعَارِجِ",
+    "nameBangla": "আল-মাআরিজ",
+    "nameEnglish": "Al-Ma'aarij",
+    "meaningBangla": "উন্নয়নের সিঁড়ি",
+    "revelationType": "মাক্কী",
+    "ayahCount": 44,
+    "bismillahPre": true
+  },
+  {
+    "id": 71,
+    "nameArabic": "سُورَةُ نُوحٍ",
+    "nameBangla": "নূহ",
+    "nameEnglish": "Nooh",
+    "meaningBangla": "নবী নূহ (আঃ)",
+    "revelationType": "মাক্কী",
+    "ayahCount": 28,
+    "bismillahPre": true
+  },
+  {
+    "id": 72,
+    "nameArabic": "سُورَةُ الجِنِّ",
+    "nameBangla": "আল-জ্বিন",
+    "nameEnglish": "Al-Jinn",
+    "meaningBangla": "জ্বিন জাতি",
+    "revelationType": "মাক্কী",
+    "ayahCount": 28,
+    "bismillahPre": true
+  },
+  {
+    "id": 73,
+    "nameArabic": "سُورَةُ المُزَّمِّلِ",
+    "nameBangla": "আল-মুযযাম্মিল",
+    "nameEnglish": "Al-Muzzammil",
+    "meaningBangla": "বস্ত্রাবৃত",
+    "revelationType": "মাক্কী",
+    "ayahCount": 20,
+    "bismillahPre": true
+  },
+  {
+    "id": 74,
+    "nameArabic": "سُورَةُ المُدَّثِّرِ",
+    "nameBangla": "আল-মুদ্দাসসির",
+    "nameEnglish": "Al-Muddaththir",
+    "meaningBangla": "চাদরাবৃত",
+    "revelationType": "মাক্কী",
+    "ayahCount": 56,
+    "bismillahPre": true
+  },
+  {
+    "id": 75,
+    "nameArabic": "سُورَةُ القِيَامَةِ",
+    "nameBangla": "আল-কিয়ামাহ",
+    "nameEnglish": "Al-Qiyaama",
+    "meaningBangla": "পুনরুত্থান দিবস",
+    "revelationType": "মাক্কী",
+    "ayahCount": 40,
+    "bismillahPre": true
+  },
+  {
+    "id": 76,
+    "nameArabic": "سُورَةُ الإِنسَانِ",
+    "nameBangla": "আল-ইনসান",
+    "nameEnglish": "Al-Insaan",
+    "meaningBangla": "মানুষ",
+    "revelationType": "মাদানী",
+    "ayahCount": 31,
+    "bismillahPre": true
+  },
+  {
+    "id": 77,
+    "nameArabic": "سُورَةُ المُرۡسَلَاتِ",
+    "nameBangla": "আল-মুরসালাত",
+    "nameEnglish": "Al-Mursalaat",
+    "meaningBangla": "প্রেরিত বাতাস",
+    "revelationType": "মাক্কী",
+    "ayahCount": 50,
+    "bismillahPre": true
+  },
+  {
+    "id": 78,
+    "nameArabic": "سُورَةُ النَّبَإِ",
+    "nameBangla": "আন-নাবা",
+    "nameEnglish": "An-Naba",
+    "meaningBangla": "মহাসংবাদ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 40,
+    "bismillahPre": true
+  },
+  {
+    "id": 79,
+    "nameArabic": "سُورَةُ النَّازِعَاتِ",
+    "nameBangla": "আন-নাযিয়াত",
+    "nameEnglish": "An-Naazi'aat",
+    "meaningBangla": "প্রচণ্ড টানকারী ফেরেশতা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 46,
+    "bismillahPre": true
+  },
+  {
+    "id": 80,
+    "nameArabic": "سُورَةُ عَبَسَ",
+    "nameBangla": "আবাসা",
+    "nameEnglish": "Abasa",
+    "meaningBangla": "তিনি ভ্রুকুটি করলেন",
+    "revelationType": "মাক্কী",
+    "ayahCount": 42,
+    "bismillahPre": true
+  },
+  {
+    "id": 81,
+    "nameArabic": "سُورَةُ التَّكۡوِيرِ",
+    "nameBangla": "আত-তাকবীর",
+    "nameEnglish": "At-Takwir",
+    "meaningBangla": "অন্ধকারাচ্ছন্নকরণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 29,
+    "bismillahPre": true
+  },
+  {
+    "id": 82,
+    "nameArabic": "سُورَةُ الانفِطَارِ",
+    "nameBangla": "আল-ইনফিতার",
+    "nameEnglish": "Al-Infitaar",
+    "meaningBangla": "বিদারণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 19,
+    "bismillahPre": true
+  },
+  {
+    "id": 83,
+    "nameArabic": "سُورَةُ المُطَفِّفِينَ",
+    "nameBangla": "আল-মুতাফফিফীন",
+    "nameEnglish": "Al-Mutaffifin",
+    "meaningBangla": "মাপে কম দানকারী",
+    "revelationType": "মাক্কী",
+    "ayahCount": 36,
+    "bismillahPre": true
+  },
+  {
+    "id": 84,
+    "nameArabic": "سُورَةُ الانشِقَاقِ",
+    "nameBangla": "আল-ইনশিকাক",
+    "nameEnglish": "Al-Inshiqaaq",
+    "meaningBangla": "খণ্ড-বিখণ্ড হওয়া",
+    "revelationType": "মাক্কী",
+    "ayahCount": 25,
+    "bismillahPre": true
+  },
+  {
+    "id": 85,
+    "nameArabic": "سُورَةُ البُرُوجِ",
+    "nameBangla": "আল-বুরুজ",
+    "nameEnglish": "Al-Burooj",
+    "meaningBangla": "নক্ষত্রপুঞ্জ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 22,
+    "bismillahPre": true
+  },
+  {
+    "id": 86,
+    "nameArabic": "سُورَةُ الطَّارِقِ",
+    "nameBangla": "আত-তারিক",
+    "nameEnglish": "At-Taariq",
+    "meaningBangla": "রাত্রিকালীন আগমনকারী",
+    "revelationType": "মাক্কী",
+    "ayahCount": 17,
+    "bismillahPre": true
+  },
+  {
+    "id": 87,
+    "nameArabic": "سُورَةُ الأَعۡلَىٰ",
+    "nameBangla": "আল-আলা",
+    "nameEnglish": "Al-A'laa",
+    "meaningBangla": "সর্বোচ্চ মহান",
+    "revelationType": "মাক্কী",
+    "ayahCount": 19,
+    "bismillahPre": true
+  },
+  {
+    "id": 88,
+    "nameArabic": "سُورَةُ الغَاشِيَةِ",
+    "nameBangla": "আল-গাশিয়াহ",
+    "nameEnglish": "Al-Ghaashiya",
+    "meaningBangla": "গ্রাসকারী বিপর্যয়",
+    "revelationType": "মাক্কী",
+    "ayahCount": 26,
+    "bismillahPre": true
+  },
+  {
+    "id": 89,
+    "nameArabic": "سُورَةُ الفَجۡرِ",
+    "nameBangla": "আল-ফজর",
+    "nameEnglish": "Al-Fajr",
+    "meaningBangla": "ঊষা বা প্রভাত",
+    "revelationType": "মাক্কী",
+    "ayahCount": 30,
+    "bismillahPre": true
+  },
+  {
+    "id": 90,
+    "nameArabic": "سُورَةُ البَلَدِ",
+    "nameBangla": "আল-বালাদ",
+    "nameEnglish": "Al-Balad",
+    "meaningBangla": "নগরী",
+    "revelationType": "মাক্কী",
+    "ayahCount": 20,
+    "bismillahPre": true
+  },
+  {
+    "id": 91,
+    "nameArabic": "سُورَةُ الشَّمۡسِ",
+    "nameBangla": "আশ-শামস",
+    "nameEnglish": "Ash-Shams",
+    "meaningBangla": "সূর্য",
+    "revelationType": "মাক্কী",
+    "ayahCount": 15,
+    "bismillahPre": true
+  },
+  {
+    "id": 92,
+    "nameArabic": "سُورَةُ اللَّيۡلِ",
+    "nameBangla": "আল-লাইল",
+    "nameEnglish": "Al-Lail",
+    "meaningBangla": "রাত",
+    "revelationType": "মাক্কী",
+    "ayahCount": 21,
+    "bismillahPre": true
+  },
+  {
+    "id": 93,
+    "nameArabic": "سُورَةُ الضُّحَىٰ",
+    "nameBangla": "আদ-দুহা",
+    "nameEnglish": "Ad-Dhuhaa",
+    "meaningBangla": "পূর্বাহ্ন",
+    "revelationType": "মাক্কী",
+    "ayahCount": 11,
+    "bismillahPre": true
+  },
+  {
+    "id": 94,
+    "nameArabic": "سُورَةُ الشَّرۡحِ",
+    "nameBangla": "আল-ইনশিরাহ",
+    "nameEnglish": "Ash-Sharh",
+    "meaningBangla": "বক্ষ প্রশস্তকরণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 8,
+    "bismillahPre": true
+  },
+  {
+    "id": 95,
+    "nameArabic": "سُورَةُ التِّينِ",
+    "nameBangla": "আত-তীন",
+    "nameEnglish": "At-Tin",
+    "meaningBangla": "ডুমুর",
+    "revelationType": "মাক্কী",
+    "ayahCount": 8,
+    "bismillahPre": true
+  },
+  {
+    "id": 96,
+    "nameArabic": "سُورَةُ العَلَقِ",
+    "nameBangla": "আল-আলাক",
+    "nameEnglish": "Al-Alaq",
+    "meaningBangla": "রক্তপিণ্ড",
+    "revelationType": "মাক্কী",
+    "ayahCount": 19,
+    "bismillahPre": true
+  },
+  {
+    "id": 97,
+    "nameArabic": "سُورَةُ القَدۡرِ",
+    "nameBangla": "আল-কদর",
+    "nameEnglish": "Al-Qadr",
+    "meaningBangla": "মহিমান্বিত রজনী",
+    "revelationType": "মাক্কী",
+    "ayahCount": 5,
+    "bismillahPre": true
+  },
+  {
+    "id": 98,
+    "nameArabic": "سُورَةُ البَيِّنَةِ",
+    "nameBangla": "আল-বাইয়্যিনাহ",
+    "nameEnglish": "Al-Bayyina",
+    "meaningBangla": "সুস্পষ্ট প্রমাণ",
+    "revelationType": "মাদানী",
+    "ayahCount": 8,
+    "bismillahPre": true
+  },
+  {
+    "id": 99,
+    "nameArabic": "سُورَةُ الزَّلۡزَلَةِ",
+    "nameBangla": "আল-যিলযাল",
+    "nameEnglish": "Az-Zalzala",
+    "meaningBangla": "ভূমিকম্প",
+    "revelationType": "মাদানী",
+    "ayahCount": 8,
+    "bismillahPre": true
+  },
+  {
+    "id": 100,
+    "nameArabic": "سُورَةُ العَادِيَاتِ",
+    "nameBangla": "আল-আদিয়াত",
+    "nameEnglish": "Al-Aadiyaat",
+    "meaningBangla": "অভিযানকারী অশ্ব",
+    "revelationType": "মাক্কী",
+    "ayahCount": 11,
+    "bismillahPre": true
+  },
+  {
+    "id": 101,
+    "nameArabic": "سُورَةُ القَارِعَةِ",
+    "nameBangla": "আল-কারিআহ",
+    "nameEnglish": "Al-Qaari'a",
+    "meaningBangla": "মহা বিপর্যয়",
+    "revelationType": "মাক্কী",
+    "ayahCount": 11,
+    "bismillahPre": true
+  },
+  {
+    "id": 102,
+    "nameArabic": "سُورَةُ التَّكَاثُرِ",
+    "nameBangla": "আত-তাকাসুর",
+    "nameEnglish": "At-Takaathur",
+    "meaningBangla": "প্রাচুর্যের প্রতিযোগিতা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 8,
+    "bismillahPre": true
+  },
+  {
+    "id": 103,
+    "nameArabic": "سُورَةُ العَصۡرِ",
+    "nameBangla": "আল-আসর",
+    "nameEnglish": "Al-Asr",
+    "meaningBangla": "সময় বা কাল",
+    "revelationType": "মাক্কী",
+    "ayahCount": 3,
+    "bismillahPre": true
+  },
+  {
+    "id": 104,
+    "nameArabic": "سُورَةُ الهُمَزَةِ",
+    "nameBangla": "আল-হুমাযাহ",
+    "nameEnglish": "Al-Humaza",
+    "meaningBangla": "পরনিন্দাকারী",
+    "revelationType": "মাক্কী",
+    "ayahCount": 9,
+    "bismillahPre": true
+  },
+  {
+    "id": 105,
+    "nameArabic": "سُورَةُ الفِيلِ",
+    "nameBangla": "আল-ফীল",
+    "nameEnglish": "Al-Fil",
+    "meaningBangla": "হাতি",
+    "revelationType": "মাক্কী",
+    "ayahCount": 5,
+    "bismillahPre": true
+  },
+  {
+    "id": 106,
+    "nameArabic": "سُورَةُ قُرَيۡشٍ",
+    "nameBangla": "কুরাইশ",
+    "nameEnglish": "Quraish",
+    "meaningBangla": "কুরাইশ গোত্র",
+    "revelationType": "মাক্কী",
+    "ayahCount": 4,
+    "bismillahPre": true
+  },
+  {
+    "id": 107,
+    "nameArabic": "سُورَةُ المَاعُونِ",
+    "nameBangla": "আল-মাউন",
+    "nameEnglish": "Al-Maa'un",
+    "meaningBangla": "নিত্যব্যবহার্য বস্তু",
+    "revelationType": "মাক্কী",
+    "ayahCount": 7,
+    "bismillahPre": true
+  },
+  {
+    "id": 108,
+    "nameArabic": "سُورَةُ الكَوۡثَرِ",
+    "nameBangla": "আল-কাউসার",
+    "nameEnglish": "Al-Kawthar",
+    "meaningBangla": "প্রচুর কল্যাণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 3,
+    "bismillahPre": true
+  },
+  {
+    "id": 109,
+    "nameArabic": "سُورَةُ الكَافِرُونَ",
+    "nameBangla": "আল-কাফিরুন",
+    "nameEnglish": "Al-Kaafiroon",
+    "meaningBangla": "অবিশ্বাসীগণ",
+    "revelationType": "মাক্কী",
+    "ayahCount": 6,
+    "bismillahPre": true
+  },
+  {
+    "id": 110,
+    "nameArabic": "سُورَةُ النَّصۡرِ",
+    "nameBangla": "আন-নাসর",
+    "nameEnglish": "An-Nasr",
+    "meaningBangla": "সাহায্য ও বিজয়",
+    "revelationType": "মাদানী",
+    "ayahCount": 3,
+    "bismillahPre": true
+  },
+  {
+    "id": 111,
+    "nameArabic": "سُورَةُ المَسَدِ",
+    "nameBangla": "আল-লাহাব",
+    "nameEnglish": "Al-Masad",
+    "meaningBangla": "অগ্নিশিখা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 5,
+    "bismillahPre": true
+  },
+  {
+    "id": 112,
+    "nameArabic": "سُورَةُ الإِخۡلَاصِ",
+    "nameBangla": "আল-ইখলাস",
+    "nameEnglish": "Al-Ikhlaas",
+    "meaningBangla": "একনিষ্ঠতা",
+    "revelationType": "মাক্কী",
+    "ayahCount": 4,
+    "bismillahPre": true
+  },
+  {
+    "id": 113,
+    "nameArabic": "سُورَةُ الفَلَقِ",
+    "nameBangla": "আল-ফালাক",
+    "nameEnglish": "Al-Falaq",
+    "meaningBangla": "নিশিভোর",
+    "revelationType": "মাক্কী",
+    "ayahCount": 5,
+    "bismillahPre": true
+  },
+  {
+    "id": 114,
+    "nameArabic": "سُورَةُ النَّاسِ",
+    "nameBangla": "আন-নাস",
+    "nameEnglish": "An-Naas",
+    "meaningBangla": "মানবজাতি",
+    "revelationType": "মাক্কী",
+    "ayahCount": 6,
+    "bismillahPre": true
+  }
+]

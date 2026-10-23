@@ -1,0 +1,6 @@
+{
+  "name": "আল কুরআন",
+  "description": "বাংলা অনুবাদসহ পবিত্র কুরআন - Al Quran Bangla with Arabic text, translation, audio recitation, bookmarks, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
